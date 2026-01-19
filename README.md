@@ -9,4 +9,6 @@ Emergent behavior is a hallmark of many biological systems. This project builds 
 
 Read the original article [here!](https://www.omniscimag.com/issue-9/living-pixels)
 
-
+Things to add: 
+ 1. pulsing based on Perlin Noise: I saw an amazing [video](https://www.youtube.com/watch?v=DxUY42r_6Cg) about how perlin noise is used to make video game graphics more fluid and engaging. it would be fantastic to utilise this for the pulsing instead of a constant parameter. 
+ 2. turn into a computer vision project using edge detection, and adapt to the patterns intelligently. 
