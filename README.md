@@ -5,7 +5,7 @@ Living Pixels is a bio-inspired simulation exploring how global visual patterns 
 
 Inspired by the remarkable camouflage abilities of cephalopods such as octopuses and cuttlefish, this simulation investigates how “seeing without eyes” can arise from decentralised biological systems. Cephalopods achieve rapid, high-resolution camouflage using specialized skin cells called chromatophores. Each chromatophore is locally controlled and responds to neural, chemical, and environmental signals, yet together they form coherent, environment-matching patterns across the entire body.
 
-Emergent behavior is a hallmark of many biological systems. This project builds on ideas discussed in my OmniSci Magazine article, [“Living Pixels”](https://www.omniscimag.com/issue-9/living-pixels), which explores chromatophores as biological, color-changing pixels and their potential role in distributed sensing and bio-inspired computation.
+Emergent behavior is a hallmark of many biological systems. This project builds on ideas discussed in my OmniSci Magazine article, [Living Pixels](https://www.omniscimag.com/issue-9/living-pixels), which explores chromatophores as biological, color-changing pixels and their potential role in distributed sensing and bio-inspired computation!
 
 ## Project Overview
 The current implementation:
